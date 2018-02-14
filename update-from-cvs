@@ -1,0 +1,2 @@
+#!/bin/sh
+exec git cvsimport -r cvs -k -d ':pserver:anonymous@pcc.ludd.ltu.se:/cvsroot' pcc
